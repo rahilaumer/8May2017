@@ -1,0 +1,70 @@
+resource_display_name,Points,Quiz_Number,Module ,Week,Released_date   
+Quiz: Welcome to the Principles of Economics,9,P-1 ,The Basic Core of Economics,Week-1,23/06/2014
+Quiz: The Central Idea,8,P-2,The Basic Core of Economics,Week-1,23/06/2014
+Quiz: Production Possibilities and Economic Growth,9,P-3 ,The Basic Core of Economics,Week-1,23/06/2014
+Quiz: Observing and Explaining the Economy,9,P-4,The Basic Core of Economics,Week-1,23/06/2014
+Quiz: Supply and Demand,8,P-5 ,The Basic Core of Economics,Week-1,23/06/2014
+Quiz: Market Equilibrium,4,P-6,The Basic Core of Economics,Week-1,23/06/2014
+Quiz: Price and Elasticity,9,P-7 ,The Basic Core of Economics,Week-1,23/06/2014
+Quiz: Price Ceilings and Floors,8,P-8 ,The Basic Core of Economics,Week-1,23/06/2014
+Quiz: Derivation of the Demand Curve,10,P-9,The Competitive Equilibrium Model,Week-2,30/06/2014
+Quiz: Marginal Benefit and Consumer Surplus,6,P-10,The Competitive Equilibrium Model,Week-2,30/06/2014
+QUIZ: DERIVATION OF THE SUPPLY CURVE,8,P-11 ,The Competitive Equilibrium Model,Week-2,30/06/2014
+Quiz: Marginal Product of Labor and Marginal Costs,8,P-12,The Competitive Equilibrium Model,Week-2,30/06/2014
+Quiz: Are Competitive Markets Efficient?,9,P-13 ,The Competitive Equilibrium Model,Week-2,30/06/2014
+Quiz: Cost Curves,4,P-14 ,Firms and Industries Changing Over Time,Week-2,30/06/2014
+QUIZ: PROFITS AND LOSSES,8,P-15 ,Firms and Industries Changing Over Time,Week-2,30/06/2014
+Quiz: Changes in the Size of a Firm Over Time,8,P-16 ,Firms and Industries Changing Over Time,Week-2,30/06/2014
+Quiz: The Rise and Fall of Industries,8,P-17 ,Firms and Industries Changing Over Time,Week-2,30/06/2014
+Quiz on 10A,10,P-18 ,Deviations from Competition,Week-3,7/07/2014
+Quiz: Price Discrimination,9,P-19 ,Deviations from Competition,Week-3,7/07/2014
+Quiz: Monopolistic Competition,8,P-20,Deviations from Competition,Week-3,7/07/2014
+Quiz: Oligopoly,8,P-21 ,Deviations from Competition,Week-3,7/07/2014
+Quiz: Economic Regulation,9,P-22 ,Deviations from Competition,Week-3,7/07/2014
+Quiz: Antitrust Policy,9,P-23 ,Deviations from Competition,Week-3,7/07/2014
+QUIZ: THE LABOR DEMAND CURVE AND THE BEHAVIOR OF FIRMS,8,P-24 ,Labor Markets,Week-4,14/07/2014
+"Quiz: Labor Supply, Workers, and Market Equilibrium",8,P-25 ,Labor Markets,Week-4,14/07/2014
+Quiz: Using the Labor Supply and Demand Model,9,P-26 ,Labor Markets,Week-4,14/07/2014
+Quiz: Tax Policy,9,P-27,Key Economic Policy Issues,Week-4,14/07/2014
+Quiz: Transfers,9,P-28 ,Key Economic Policy Issues,Week-4,14/07/2014
+Dropdown,10,P-29 ,Key Economic Policy Issues,Week-4,14/07/2014
+Quiz: Public Goods,8,P-30,Key Economic Policy Issues,Week-4,14/07/2014
+Quiz: Externalities,10,P-31 ,Key Economic Policy Issues,Week-4,14/07/2014
+Quiz: Government Failure,10,P-32 ,Key Economic Policy Issues,Week-4,14/07/2014
+Quiz: The Demand and Supply of Capital Including Housing,8,P-33 ,Financial and Capital Markets,Week-5,21/07/2014
+Quiz: Bond Markets and the Price of Bonds,8,P-34 ,Financial and Capital Markets,Week-5,21/07/2014
+Quiz: Financial Market Risk I,8,P-35 ,Financial and Capital Markets,Week-5,21/07/2014
+Quiz: Financial Market Risk II,8,P-36 ,Financial and Capital Markets,Week-5,21/07/2014
+Quiz: Preview of Macroeconomics I,8,P-37 ,Macro Facts and Measures,Week-5,21/07/2014
+Quiz: Preview of Macroeconomics II,8,P-38 ,Macro Facts and Measures,Week-5,21/07/2014
+Quiz: 4 Key Macro Variables,9,P-39,Macro Facts and Measures,Week-5,21/07/2014
+Quiz: Elements of National Income & Product Accounting,8,P-40 ,Macro Facts and Measures,Week-5,21/07/2014
+"Quiz: Real GDP, the Price Level and Inflation",8,P-41 ,Macro Facts and Measures,Week-5,21/07/2014
+Quiz: The Spending Allocation Model,10,P-42 ,Long Run Macroeconomics,Week-6,28/07/2014
+Quiz: Using the Spending Allocation Model,9,P-43,Long Run Macroeconomics,Week-6,28/07/2014
+Quiz: Macro Equilibrium in the Labor Market,9,P-44,Long Run Macroeconomics,Week-6,28/07/2014
+Quiz: Productivity and Economic Growth,9,P-45 ,Long Run Macroeconomics,Week-6,28/07/2014
+Quiz: The Growth Accounting Formula,9,P-46 ,Long Run Macroeconomics,Week-6,28/07/2014
+Quiz: Macro Equilibrium in the Labor Market,9,P-47 ,Long Run Macroeconomics,Week-6,28/07/2014
+Quiz: Productivity and Economic Growth,9,P-48 ,Long Run Macroeconomics,Week-6,28/07/2014
+Quiz: The Growth Accounting Formula,9,P-49 ,Long Run Macroeconomics,Week-6,28/07/2014
+Quiz: Money and Inflation,8,P-50 ,Long Run Macroeconomics,Week-6,28/07/2014
+Quiz: The Fed and the Money Supply,9,P-51 ,Long Run Macroeconomics,Week-6,28/07/2014
+Quiz: Nature of Economic Fluctuations,8,P-52 ,Short Run Macro,Week-7,4/08/2014
+Quiz: Consumption Function and Its Implications,9,P-53,Short Run Macro,Week-7,4/08/2014
+Quiz: The Economic Fluctuations Model I,8,P-54 ,Short Run Macro,Week-7,4/08/2014
+Quiz: The Economic Fluctuations Model III,8,P-56,Short Run Macro,Week-7,4/08/2014
+Quiz: Using the Model I - The Case of Change in G,8,P-57 ,Short Run Macro,Week-7,4/08/2014
+Quiz: Using the Model II - The Case of a Change in Monetary Policy,8,P-58 ,Short Run Macro,Week-7,4/08/2014
+Quiz: Macroeconomic Policy Analysis,8,P-59 ,Macro Policy Issues,Week-8,11/08/2014
+"Quiz: The Government Budget, the Debt and the Deficit",9,P-60 ,Macro Policy Issues,Week-8,11/08/2014
+Quiz: Countercyclical Fiscal Policy,9,P-61 ,Macro Policy Issues,Week-8,11/08/2014
+Quiz: Monetary Policy I,9,P-62,Macro Policy Issues,Week-8,11/08/2014
+Quiz: Monetary Policy II,9,P-63,Macro Policy Issues,Week-8,11/08/2014
+Quiz: Monetary Policy III,9,P-64 ,Macro Policy Issues,Week-8,11/08/2014
+Quiz: Monetary Policy - Rules vs. Discretion,9,P-65 ,Macro Policy Issues,Week-8,11/08/2014
+Multiple Choice,9,P-66 ,Macro Policy Issues,Week-8,11/08/2014
+Quiz: Comparative Advantage,9,P-67 ,International Economic Issues,Week-8,11/08/2014
+Quiz: Expanding Markets,9,P-68,International Economic Issues,Week-8,11/08/2014
+Quiz: Tariffs and Quotas,8,P-69 ,International Economic Issues,Week-8,11/08/2014
+Quiz: International Trade Policy,9,P-70 ,International Economic Issues,Week-8,11/08/2014
